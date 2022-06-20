@@ -1,4 +1,4 @@
-# Apple-Store-and-Google-Play-Store-Apps-Analysis-
+# Apple-Store and Google-Play-Store Apps data analysis using python
 
 For this project, I analyzed data for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and in the App Store.
 
